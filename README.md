@@ -3,7 +3,7 @@
 ### Programas necessário:
 Para executar o código utilizado pelo etl_postgre.ipynb é preciso ter:
 - Python 3
-- Biblioteca pycopg
+- Biblioteca psycopg
 - Postgre
 
 ### Preparando o ambiente
